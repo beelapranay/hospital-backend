@@ -1,6 +1,0 @@
-Post http://localhost:3000/
-Content-Type: application/json
-
-{
-    "isHealthy": true
-}
